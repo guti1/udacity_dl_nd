@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d93384a-dd06-4e79-92aa-8dcddde1b158" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/deep-learning/autoencoder/Convolutional_Autoencoder.ipynb" afterPath="$PROJECT_DIR$/deep-learning/autoencoder/Convolutional_Autoencoder.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/autoencoder/Convolutional_Autoencoder_Solution.ipynb" afterPath="$PROJECT_DIR$/deep-learning/autoencoder/Convolutional_Autoencoder_Solution.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/autoencoder/Simple_Autoencoder.ipynb" afterPath="$PROJECT_DIR$/deep-learning/autoencoder/Simple_Autoencoder.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/embeddings/Skip-Gram_word2vec.ipynb" afterPath="$PROJECT_DIR$/deep-learning/embeddings/Skip-Gram_word2vec.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/embeddings/Skip-Grams-Solution.ipynb" afterPath="$PROJECT_DIR$/deep-learning/embeddings/Skip-Grams-Solution.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/first-neural-network/Your_first_neural_network.ipynb" afterPath="$PROJECT_DIR$/deep-learning/first-neural-network/Your_first_neural_network.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/intro-to-rnns/Anna_KaRNNa.ipynb" afterPath="$PROJECT_DIR$/deep-learning/intro-to-rnns/Anna_KaRNNa.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/intro-to-rnns/Anna_KaRNNa_Exercises.ipynb" afterPath="$PROJECT_DIR$/deep-learning/intro-to-rnns/Anna_KaRNNa_Exercises.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/intro-to-tensorflow/intro_to_tensorflow.ipynb" afterPath="$PROJECT_DIR$/deep-learning/intro-to-tensorflow/intro_to_tensorflow.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/intro-to-tensorflow/intro_to_tensorflow_solution.ipynb" afterPath="$PROJECT_DIR$/deep-learning/intro-to-tensorflow/intro_to_tensorflow_solution.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/sentiment-network/Sentiment_Classification_Projects.ipynb" afterPath="$PROJECT_DIR$/deep-learning/sentiment-network/Sentiment_Classification_Projects.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/sentiment-network/Sentiment_Classification_Solutions.ipynb" afterPath="$PROJECT_DIR$/deep-learning/sentiment-network/Sentiment_Classification_Solutions.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/sentiment-rnn/Sentiment_RNN.ipynb" afterPath="$PROJECT_DIR$/deep-learning/sentiment-rnn/Sentiment_RNN.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/sentiment-rnn/Sentiment_RNN_Solution.ipynb" afterPath="$PROJECT_DIR$/deep-learning/sentiment-rnn/Sentiment_RNN_Solution.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/transfer-learning/Transfer_Learning.ipynb" afterPath="$PROJECT_DIR$/deep-learning/transfer-learning/Transfer_Learning.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/transfer-learning/Transfer_Learning_Solution.ipynb" afterPath="$PROJECT_DIR$/deep-learning/transfer-learning/Transfer_Learning_Solution.ipynb" />
+      <change beforePath="$PROJECT_DIR$/deep-learning/tv-script-generation/helper.py" afterPath="$PROJECT_DIR$/deep-learning/tv-script-generation/helper.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deep-learning/tv-script-generation/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep-learning/tv-script-generation/helper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dockerfile.tv_script" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep-learning/tv-script-generation/Dockerfile.tv_script">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/deep-learning" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/deep-learning/tv-script-generation/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/deep-learning/tv-script-generation/helper.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Deep_learning_nd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep_learning_nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep_learning_nd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep_learning_nd" type="462c0819:PsiDirectoryNode" />
+              <item name="deep-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep_learning_nd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep_learning_nd" type="462c0819:PsiDirectoryNode" />
+              <item name="deep-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="tv-script-generation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d93384a-dd06-4e79-92aa-8dcddde1b158" name="Default" comment="" />
+      <created>1511338798878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511338798878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/deep-learning/tv-script-generation/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep-learning/tv-script-generation/Dockerfile.tv_script">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep-learning/tv-script-generation/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="82" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

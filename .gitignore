@@ -1,0 +1,5 @@
+*.zip
+*.pickle
+deep-learning/intro-to-tensorflow/notMNIST_train.zip
+deep-learning/intro-to-tensorflow/notMNIST_test.zip
+deep-learning/intro-to-tensorflow/notMNIST.pickle
