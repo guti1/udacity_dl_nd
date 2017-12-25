@@ -1,0 +1,19 @@
+version: '2'
+services:
+  jupyter_language:
+    build:
+      context: .
+      dockerfile: Dockerfile.language_gpu
+    image: "guti1/udacity_dl_language_gpu"
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/jovyan/work
+    devices:
+      - /dev/nvidia0
+    user: root
+    command: [ "sh", "-c",
+               "NB_UID=`ls -nd /home/jovyan/work | cut -d ' ' -f 3` \
+                NB_GID=`ls -nd /home/jovyan/work | cut -d ' ' -f 4` \
+                start-notebook.sh --NotebookApp.token='' --ip=0.0.0.0 --allow-root"]
+
